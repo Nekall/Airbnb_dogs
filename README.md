@@ -6,7 +6,7 @@ prinncipe.
 J'ai donc créé un model Dogsitter, un model Dog, un model Stroll et un model City; Qui sont
 respectivement liés. 
 
-<img src="https://raw.githubusercontent.com/Nekall/Airbnb_dogs/main/Diagramme%20vierge.png">
+<img src="https://raw.githubusercontent.com/Nekall/Airbnb_dogs/main/Diagramme_airbnb_dogs.png">
 
 
 _______________________________________________________________________________________________________________________________________________________
