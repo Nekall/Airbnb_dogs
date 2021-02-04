@@ -1,3 +1,16 @@
+Dans le but de jouer avec les BDD, j'ai créé une app qui serait un Airbnb pour chiens. 
+De quoi mettre en relation un dogsitter avec un chien sous forme de rdv-promenade. 
+Assez similaire à l'exercice avec les docteurs et les paetiens (FreeDoc) j'ai repris le même 
+prinncipe. 
+
+J'ai donc créé un model Dogsitter, un model Dog, un model Stroll et un model City; Qui sont
+respectivement liés. 
+
+
+
+
+_______________________________________________________________________________________________________________________________________________________
+
 Le Airbnb des promenades de chiens
 2.2.1. Le pitch
 

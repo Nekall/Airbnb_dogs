@@ -29,8 +29,8 @@ class Dog < ApplicationRecord
 end
 
 class Stroll < ApplicationRecord
-  belongs_to :dogs
-  belongs_to :dogsitters
+  belongs_to :dog
+  belongs_to :dogsitter
 end
 
 class City < ApplicationRecord
